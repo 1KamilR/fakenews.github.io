@@ -1,0 +1,5 @@
+---
+site: blogdown:::blogdown_site
+---
+blogdown::stop_server()
+blogdown::serve_site() #run these two lines any time you want to force an update
